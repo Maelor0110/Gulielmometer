@@ -1,0 +1,7 @@
+{
+  "name": "Guglielmometer",
+  "description": "L'unico strumento scientifico in grado di misurare la tua bellezza in Unità Giacomo Guglielmi (GG).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
